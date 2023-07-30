@@ -1,0 +1,17 @@
+.header{
+    height: 120px;
+    background-color:#ee4d2d ;
+    background-image: linear-gradient(0,#ee4d2d,#ff7337);
+}
+.header_navbar{
+    display: flex;
+    justify-content: space-around;
+   
+}
+.header_navbar-list{
+    list-style: none;
+    padding-left: 0;
+}
+.header_navbar-item{
+    display: inline-block;
+}
